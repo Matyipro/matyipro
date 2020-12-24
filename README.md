@@ -1,19 +1,28 @@
 <!DOCTYPE html>
 <html>
     <head>
+        
         <meta charset="utf-8">
+        
         <title>Project: Event invite</title>
+        
         <style>
+        
+        
         body{
             background-color:black;
         }
-        #heading{
+         
+         
+         
+         #heading{
             color:white;
             position:relative;
             margin-left:43%;
             
+           }
             
-        }
+            
         .list{
             color:white;
             position:relative;
